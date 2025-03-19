@@ -1,0 +1,2 @@
+# SolaraDownloadFast
+download faster 
